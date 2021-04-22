@@ -9,7 +9,9 @@
 header {
   font-family: 'Montserrat', sans-serif;
   color: #fff;
-  padding-bottom: 30px;
+  padding: 0.8rem 1.4rem;
+  align-items: center;
+  justify-content: start;
   z-index: 10;
 }
 
