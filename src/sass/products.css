@@ -109,6 +109,11 @@ body .active {
   margin: 20px 0;
 }
 
+content h4 {
+  font-size: medium;
+  text-align: center;
+}
+
 .content p {
   color: #555;
   line-height: 30px;
